@@ -1,0 +1,41 @@
+#vuepress files
+
+*.log
+*.gem
+*.rbc
+.bundle
+.config
+coverage
+InstalledFiles
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
+.DS_STORE
+build/
+.cache
+.vagrant
+.sass-cache
+vendor
+
+# YARD artifacts
+.yardoc
+_yardoc
+doc/
+.idea/
+
+dist
+
+/.firebase
+
+# Yarn
+.pnp.*
+node_modules
+.yarn/
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
