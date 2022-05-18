@@ -31,6 +31,8 @@
 
 [教程](./用户文档/教程.md)
 
+[区块状态](./用户文档/区块状态.md)
+
 ## 有用链接
 
 
@@ -45,6 +47,8 @@
 [Telegram](https://t.me/zksync)
 
 [Twitter](https://twitter.com/zksync)
+
+[网络状态](https://uptime.com/s/zksync)
 
 
 ## 翻译作者
