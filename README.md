@@ -50,6 +50,8 @@
 
 [网络状态](https://uptime.com/s/zksync)
 
+[备用取款页面](https://withdraw.zksync.io/)
+
 
 ## 翻译作者
 
